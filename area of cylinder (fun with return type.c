@@ -12,5 +12,6 @@ float area(int r,int h)
 {
 	float a;
 	a=2*3.14*r*h;
-	return a;
+	return 
+		;
 }
